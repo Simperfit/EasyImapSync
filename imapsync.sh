@@ -20,10 +20,10 @@ OPTION="--tls1 --tls2"
 echo "Nous allons commencer le sync des comptes : "
 
 #Le serveur Source :
-HOST1=postbox.oblady.biz
+HOST1=
 
 #Le serveur de destinations :
-HOST2=postbox.oblady.biz
+HOST2=
 
 while IFS=: read user1 password1 user2 password2
 		do
