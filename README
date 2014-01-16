@@ -1,0 +1,33 @@
+
+	Français
+hamza@oblady.fr - Syntaxe  de fichiers
+
+Le script utilise : https://github.com/imapsync/imapsync
+
+Vous devez modifier HOST1 et HOST2 par les valeurs réels
+
+Dans le fichiers 'CompteSynchro.txt', merci de préciser le nom d'utilisateur et le mot de passe de la source en premier, puis de préciser le nom d'utilisateur et le mot de passe du serveur destinataire
+
+example : toto@toto.com:paswword1:toto@newtoto.com:password2(séparer par ':').
+ 
+Si plusieurs compte à synchro :
+
+compte1:mdp1:compte1newserv:mdp1newserv
+compte2:mdp2:compte2newserv:mdp2newserv
+.. etc
+
+Version 1.0.0
+ 
+
+	ENGLISH
+Prerequisites : https://github.com/imapsync/imapsync
+
+Please write in the CompteSynchro.txt file the source username and password and then the destination username and password
+exemple : toto@toto.com:paswword1:toto@newtoto.com:password2(with ':' as a separator).
+
+If you have more than one account :
+compte1:mdp1:compte1newserv:mdp1newserv
+compte2:mdp2:compte2newserv:mdp2newserv
+.. etc
+
+Version 1.0.0
