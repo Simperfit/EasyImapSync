@@ -1,1 +1,1 @@
-toto@toto.fr:password1:toto@newtoto.fr:password2
+test@test.fr:password1:tata@test.fr:password1
