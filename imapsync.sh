@@ -8,9 +8,9 @@
 # Si plusieurs compte à synchro :
 # compte1:mdp1:compte1newserv:mdp1newserv
 # compte2:mdp2:compte2newserv:mdp2newserv
-# Version 1.0.0
+# Version 1.1.0
 
-VERS=1.0.0
+VERS=1.1.0
 echo -e "\e[00;31mVersion ${VERS} -> if(Question) mailto(hamza@oblady.fr) use imapsync --help for more support\e[00m"
 # Si besoin d'options supplementaire -> For example : --tls1 --tls2 pour activer le tls voir imapsync --help pour avoir la liste 
 # des options.
